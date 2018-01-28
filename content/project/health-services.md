@@ -28,10 +28,10 @@ caption = "A static map that represents social service availability for English-
 
 +++
 
-In Phase 1 of this complex multi-year project, I characterized the spatial relationship between health and social service providers and linguistic-minorities in Montreal, Quebec, Canada. Because the project aimed to address service inequities through training, the first phase of the project focused on identifying where services for English-speakers were lacking.
+In Phase 1 of this complex multi-year project, I characterized the spatial relationship between health and social service providers and linguistic-minorities in Montreal, Quebec, Canada. Because the project aimed to address service inequities through training, the first phase of the project centered on identifying where services for English-speakers were lacking.
 
 [Availability of Nurses for English-speakers](/img/cnurses.jpg) *click for larger view* ![Availability of Nurses for English-speakers](/img/cnurses.jpg)
 
-The spatial analysis was necessary to better understand the geographic distribution of services providers across the island. I carefully designed maps for a non-specialist audience to present results. These are samples from the series of maps.
+The spatial analysis was necessary to better understand the geographic distribution of services providers across the island. I carefully designed maps for a non-specialist audience to present results. These are samples from a collection of maps that I made for the project.
 
 [Availability of Social Workers for English-speakers](/img/csocial.jpg) *click for larger view* ![Availability of Social Workers for English-speakers](/img/csocial.jpg)

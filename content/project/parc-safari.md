@@ -28,9 +28,9 @@ caption = "A 2.5D representation of the pit, alongside the spatial and stratigra
 
 +++
 
-[Parc Safari Burial Detection] (https://sites.google.com/site/excavationsatparcsafari/) (opens new window) was a collaboration between scholars in the departments of anthropology and of geography at McGill University. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna.
+[Parc Safari Burial Detection] (https://sites.google.com/site/excavationsatparcsafari/) (opens new window) was a collaboration between scholars in the departments of anthropology and of geography at McGill University and Parc Safari. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna.
 
-Scholars from McGill were involved in detecting, excavating and documenting the graves of several animals in the zoo's cemetery. As part of an archaeological field school, undergraduate and graduate students carefully excavated the grave of a watusi. Watusis are large-horned cows that are found in Africa.
+Scholars were involved in detecting, excavating and documenting the graves of several animals in the zoo's cemetery. As part of an archaeological field school, undergraduate and graduate students carefully excavated the grave of a watus. The watusi is a large-horned cow typically found in Africa.
 
 2.5D Model alongside Photo of Watusi Grave ![2.5D Model alongside Photo of Watusi Grave](/img/parc_3d&photo.jpg)
 
