@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "parc-3d.jpg"
-caption = "A 2.5D representation of the pit, alongside the spatial and stratigraphic position of the watusi's skeleton. Such representations offer accurate measurement of immovable archaeological features and material and can enable a better understanding of burial practices / Image credit: N. Gupta, 2010"
+caption = "A 2.5D representation of the pit, alongside the spatial and stratigraphic position of the watusi's skeleton / Image credit: N. Gupta, 2010"
 
 +++
 
