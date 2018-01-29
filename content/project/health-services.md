@@ -6,7 +6,7 @@ date = "2017-07-08"
 title = "Health & Social Services for Linguistic Minorities"
 
 # Project summary to display on homepage.
-summary = "The Training and Human Resources Development Project at McGill University aimed to address inequalities in the availability of health and social services for linguistic minorities in Quebec, Canada. The premise of this research is that an individual must be able to access health and social services in their first language. Quebec is the only Canadian province with a French-speaking majority. The project focused on service availability for English-speakers in the province."
+summary = "The Training and Human Resources Development Project at McGill University aimed to address inequalities in the availability of health and social services for linguistic minorities in Quebec, Canada. The project is based on the principle that a person must have access to health and social services in their first language. Quebec is the only Canadian province with a French-speaking majority. The project focused on service availability for English-speakers, a linguistic minority in the province."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "social_avg.jpg"

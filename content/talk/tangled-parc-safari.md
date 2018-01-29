@@ -6,7 +6,7 @@ abstract_short = ""
 authors = ["N Gupta", "C Nielsen", "C Ames"]
 event = "American Academy of Forensic Sciences, 62nd Meeting"
 event_url = "https://www.aafs.org/resources/proceedings/"
-location = "Washington State Convention & Trade Centre, Seattle, Washington, USA"
+location = "Washington State Convention & Trade Center, Seattle, Washington, USA"
 
 selected = true
 math = false
@@ -17,7 +17,8 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/tangled-aafs.png"
-caption = "A view from above of the mass animal grave at the Parc Safari cemetery (left). 3D visualization of the skeletal remains of one animal *in situ* (right) / Image credit: Gupta et al. 2010"
+image = "headers/tangled-corpses.png"
+caption = "An oblique view of a mass animal grave at the Parc Safari cemetery (left)/ Image credit: Gupta 2008"
 
 +++
+[Poster for AAFS](/img/tangled-parc-safari.png) *click for larger view* ![tangled](/img/tangled-parc-safari.png)

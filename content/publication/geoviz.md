@@ -23,8 +23,9 @@ url = "http://doi.org/10.1007/s10816-016-9298-7"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/geoviz8-wide.png"
-caption = "Cube with three criteria: temporal navigation, interaction and platform / Image credit: N. Gupta, 2016"
+image = ""
+caption = ""
 
 
 +++
+[Cube with three criteria](/img/geoviz9.png) *click for larger view*![Cube with three criteria](/img/geoviz9.png)
