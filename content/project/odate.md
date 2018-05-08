@@ -16,7 +16,7 @@ image_preview = "odateScreen.jpg"
 tags = ["digital-archaeology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://carleton.ca/history/2017/shawn-graham-demonstrates-open-textbook-environment/"
+external_link = "https://o-date.github.io/draft/book/"
 
 # Does the project detail page use math formatting?
 math = false

@@ -22,7 +22,7 @@ view = 1
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "Select Projects"
+  name = "Selected Projects"
   tag = "*"
 
 
