@@ -20,9 +20,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Neha Gupta"
-  role = "Fellow"
-  organization = "The Humanities Interdisciplinary Collaboration Lab, University of Guelph"
-  organization_url = "https://www.uoguelph.ca/arts/dhguelph/thinc"
+  role = "McCain Postdoctoral Fellow in Innovation"
+  organization = "University of New Brunswick"
+  organization_url = "http://www.unb.ca/fredericton/arts/departments/anthropology/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "dngupta (at) mun (dot) ca"
