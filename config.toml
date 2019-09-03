@@ -1,6 +1,6 @@
 baseurl = "https://dngupta.github.io/"  # End your URL with a `/` trailing slash.
 title = "Neha Gupta"
-copyright = "&copy; 2018 Neha Gupta"
+copyright = "&copy; 2019 Neha Gupta"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,12 +20,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Neha Gupta"
-  role = "McCain Postdoctoral Fellow in Innovation"
-  organization = "University of New Brunswick"
-  organization_url = "http://www.unb.ca/fredericton/arts/departments/anthropology/"
+  role = "Assistant Professor, Anthropology"
+  organization = "The University of British Columbia, Okanagan"
+  organization_url = "https://ccgs.ok.ubc.ca/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "dngupta (at) mun (dot) ca"
+  email = "neha(dot)gupta (at) ubc (dot) ca"
   address = ""
   office_hours = ""
   phone = ""

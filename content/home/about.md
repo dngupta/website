@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Digital and Geospatial Methods",
+    "Geospatial and Digital Methods",
     "Post-colonial and Indigenous Archaeology",
     "Archaeology of India and Canada"
   ]
@@ -37,6 +37,6 @@ weight = 1
 
 # Biography
 
-<div style="text-align: justify"> I am McCain Postdoctoral Fellow in Innovation at the University of New Brunswick. My research programme addresses geospatial and digital methods in post-colonial and Indigenous archaeology. My research specialties are geovisualization and GIS, post-colonial and Indigenous studies, and the archaeology of India and Canada.</div>
+<div style="text-align: justify"> I am Assistant Professor of Anthropology at The University of British Columbia. My research programme addresses geospatial and digital methods in post-colonial and Indigenous archaeology. My research specialties are geovisualization and GIS, post-colonial and Indigenous studies, and the archaeology of India and Canada.</div>
 
-<p> <div style="text-align: justify"> I am particularly interested in the relationship between knowledge, space and power, and how geospatial perspectives can shed new light on Indigenous peoples in Canada and India. Recent scholarship such as <a href="http://dngupta.github.io/mina.github.io" target="_blank"> MINA | Map Indian Archaeology</a>, <a href="http://wendatcircles.org" target="_blank"> Circles of Interaction </a> and <a href="https://o-date.github.io/draft/book/" target="_blank"> Open Digital Archaeology Textbook and Environment </a> centers on the themes of colonial practices in archaeology, web maps, open research practice and the relationship between Indigenous peoples and archaeology. </div></p>
+<p> <div style="text-align: justify"> I am particularly interested in the relationship between knowledge, space and power, and how geospatial perspectives can shed new light on Indigenous peoples in Canada and India. Recent scholarship such as <a href="http://dngupta.github.io/mina.github.io" target="_blank"> MINA | Map Indian Archaeology </a>, <a href="https://dngupta.github.io/project/circles-wendat/" target="_blank"> Circles of Interaction </a> and <a href="https://o-date.github.io/draft/book/" target="_blank"> Open Digital Archaeology Textbook and Environment </a> centers on the themes of colonial practices in archaeology, web maps, open research practice and the relationship between Indigenous peoples and archaeology. </div></p>

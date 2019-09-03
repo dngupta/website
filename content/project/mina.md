@@ -26,7 +26,7 @@ math = false
 
 ![MINA homepage](/img/minaHome.jpg)
 
- Clustered markers (a Leaflet library) on the web map present a striking geographic pattern and distribution of archaeological investigations in post-1947 Independent India. Clustering is tied to zoom; therefore, zooming in or out will enable you to examine individual markers and details on each investigation. These data were derived from *Indian Archaeology: A Review*, a key source published by the Archaeological Survey of India, the national department for archaeology and heritage management. 
+ Clustered markers (a Leaflet library) on the web map present a striking geographic pattern and distribution of archaeological investigations in post-1947 Independent India. Clustering is tied to zoom; therefore, zooming in or out will enable you to examine individual markers and details on each investigation. These data were derived from *Indian Archaeology: A Review*, a key source published by the Archaeological Survey of India, the national institution for archaeology and heritage management.
 
 ![MINA marker](/img/minaMarker.jpg)
 

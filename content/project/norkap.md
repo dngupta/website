@@ -6,7 +6,7 @@ date = "2017-07-08"
 title = "Northern Kerala Archaeology Project"
 
 # Project summary to display on homepage.
-summary = "Northern Kerala Archaeology Project, NorKAP for short, is a collaboration between Memorial University and the University of Kerala. The project, led by Dr Neha Gupta (Memorial) and Dr Rajesh SV (Kerala) examines long-term change in the social and political organization of past societies in the Bharathapuzha River Valley in northern Kerala. Premilinary results were presented at the Society for American Archaeology meetings in April 2017."
+summary = "Northern Kerala Archaeology Project, NorKAP for short, is a collaboration between Memorial University and the University of Kerala. The project, led by Dr Neha Gupta and Dr Rajesh SV (Kerala) examines long-term change in the social and political organization of past societies in the Bharathapuzha River Valley in northern Kerala. Preliminary results were presented at the Society for American Archaeology meetings in April 2017."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "fish-market.jpg"

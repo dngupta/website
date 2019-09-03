@@ -6,7 +6,7 @@ abstract_short = ""
 authors = ["N Gupta"]
 event = "American Anthropological Association, 2015 Annual Meeting"
 event_url = "https://aaa.confex.com/aaa/2015/webprogram/Session14183.html"
-location = "Colorado Convention Center, Denver, Colarado, USA"
+location = "Colorado Convention Center, Denver, Colorado, USA"
 
 selected = true
 math = false
@@ -18,6 +18,6 @@ url_video = ""
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/sanskrit.jpg"
-caption = "Aryan mythology in the Indian context assumes that Sanskrit, the language of the Vedas, is unchanging and that the Vedic texts are a static archive of tranditions"
+caption = "Aryan mythology in the Indian context assumes that Sanskrit, the language of the Vedas, is unchanging and that the Vedic texts are a static archive of traditions"
 
 +++
