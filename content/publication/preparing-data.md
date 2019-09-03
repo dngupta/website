@@ -1,9 +1,5 @@
 +++
-abstract = "Preparation of archaeological data for spatial analysis and the
-documentation of these procedures is now seen as key for effective
-management, analysis, interpretation and potential re-use of digital
-archaeological data. In an era of more user-friendly cyber-infrastructures in the field of archaeology, and with growing interest in the integration of information from diverse sources, greater efforts are now made to consider the quality of archaeological data, how best
-to document workflows and versions, as well as facilitate collaborative research. This paper presents an overview of these issues, and offers guidelines and best practices in terms of scripted workflows, version control for managing data and open and collaborative research in archaeological spatial analysis."
+abstract = "Preparation of archaeological data for spatial analysis and the documentation of these procedures is now seen as key for effective management, analysis, interpretation and potential re-use of digital archaeological data. In an era of more user-friendly cyber-infrastructures in the field of archaeology, and with growing interest in the integration of information from diverse sources, greater efforts are now made to consider the quality of archaeological data, how best to document workflows and versions, as well as facilitate collaborative research. This paper presents an overview of these issues, and offers guidelines and best practices in terms of scripted workflows, version control for managing data and open and collaborative research in archaeological spatial analysis."
 abstract_short = "Preparation of archaeological data for spatial analysis and the documentation of these procedures is now seen as key for effective management, analysis, interpretation and potential re-use of digital archaeological data."
 authors = ["N Gupta"]
 date = "2019-09-15"
