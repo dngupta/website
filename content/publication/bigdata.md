@@ -23,7 +23,7 @@ url ="https://doi.org/10.1080/00934690.2020.1713969"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "header/legal-issues.jpg"
+image = "headers/legal-issues.jpg"
 caption = "Compilation of data and their management in archaeological spatial databases is associated with legal and policy issues. Greater attention to the rights of Indigenous peoples, and legal and policy issues associated with archaeological spatial databases is necessary for archaeology in the 21st century."
 
 

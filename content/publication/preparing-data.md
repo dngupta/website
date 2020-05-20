@@ -23,7 +23,7 @@ url = "https://doi.org/10.4324/9781351243858-2"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "header/sources-error.jpg"
+image = "headers/sources-error.jpg"
 caption = "Sources and types of errors in data collection and compilation, data processing and data usage that result in final global error, adapted from Hunter and Beard (1992)"
 
 
