@@ -12,14 +12,14 @@ selected = true
 title = "Open Digital Archaeology Textbook and Environment"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://o-date.github.io/draft/book/"
 url_project = "project/odate/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="https://o-date.github.io/draft/book/" target="_ blank"></a>
+url = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

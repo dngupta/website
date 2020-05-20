@@ -12,14 +12,14 @@ selected = true
 title = "Geographic Visualization in Archaeology"
 url_code = ""
 url_dataset = ""
-url_pdf = <a href="http://research.library.mun.ca/12144/" target="_ blank"></a>
+url_pdf = "http://research.library.mun.ca/12144/"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="http://doi.org/10.1007/s10816-016-9298-7" target="_ blank"></a>
+url = "http://doi.org/10.1007/s10816-016-9298-7"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

@@ -7,19 +7,19 @@ image_preview = ""
 math = false
 publication_types = ["2"]
 publication = "In *Journal of Field Archaeology*"
-publication_short = "JFA"
+publication_short = "*JFA*"
 selected = true
 title = "What We See, What We Don’t See: Data Governance, Archaeological Spatial Databases and the Rights of Indigenous Peoples in an Age of Big Data"
 url_code = ""
 url_dataset = ""
-url_pdf = <a href="https://doi.org/10.1080/00934690.2020.1713969" target="_ blank"></a>
+url_pdf = "https://doi.org/10.1080/00934690.2020.1713969"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="https://doi.org/10.1080/00934690.2020.1713969" target="_ blank"></a>
+url ="https://doi.org/10.1080/00934690.2020.1713969"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

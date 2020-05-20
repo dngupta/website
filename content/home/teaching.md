@@ -22,3 +22,4 @@ weight = 30
 4. Introduction to Geographic Information Systems (200-level)
 5. Scientific Applications in Archaeology (400-level)
 6. Biology of Human Variation (200-level)
+7. Interpreting Archaeology (200-level)

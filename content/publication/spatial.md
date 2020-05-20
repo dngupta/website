@@ -12,7 +12,7 @@ selected = true
 title = "What do Spatial Approaches to the History of Archaeology Tell Us? Insights from Post-Colonial India"
 url_code = ""
 url_dataset = ""
-url_pdf = <a href="http://revistas.ucm.es/index.php/CMPL/article/view/43379/41051" target="_ blank"></a>
+url_pdf = "http://revistas.ucm.es/index.php/CMPL/article/view/43379/41051"
 url_project = "project/mina/"
 url_slides = ""
 url_video = ""

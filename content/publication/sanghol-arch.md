@@ -12,14 +12,14 @@ selected = false
 title = "Social and Political Factors in Post-Colonial Indian Archaeology: The Case of Sanghol, Punjab"
 url_code = ""
 url_dataset = ""
-url_pdf = <a href="https://www.archaeologybulletin.org/articles/10.5334/bha.262/" target="_ blank"></a>
+url_pdf = "https://www.archaeologybulletin.org/articles/10.5334/bha.262/"
 url_project = "project/mina/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="https://www.archaeologybulletin.org/articles/10.5334/bha.262/" target="_ blank"></a>
+url = "https://www.archaeologybulletin.org/articles/10.5334/bha.262/"
 
 
 # Optional featured image (relative to `static/img/` folder).

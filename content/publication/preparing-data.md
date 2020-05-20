@@ -10,16 +10,16 @@ publication = "In *Archaeological Spatial Analysis: A Methodological Guide*"
 publication_short = "Archaeological Spatial Analysis"
 selected = true
 title = "Preparing Archaeological Data for Spatial Analysis"
-url_code = <a href="https://open.library.ubc.ca/media/download/txt/52383/1.0388697/9" target="_ blank"></a>
+url_code = "https://open.library.ubc.ca/media/download/txt/52383/1.0388697/9"
 url_dataset = ""
-url_pdf = <a href="https://open.library.ubc.ca/media/download/pdf/52383/1.0388697/8" target="_ blank"></a>
+url_pdf = "https://open.library.ubc.ca/media/download/pdf/52383/1.0388697/8"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="https://doi.org/10.4324/9781351243858-2" target="_ blank"></a>
+url = "https://doi.org/10.4324/9781351243858-2"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

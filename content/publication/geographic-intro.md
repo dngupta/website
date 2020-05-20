@@ -8,18 +8,18 @@ math = false
 publication_types = ["2"]
 publication = "In *Bulletin of the History of Archaeology*"
 publication_short = "*BHA*"
-selected = false
+selected = true
 title = "Introduction to Geographic and Spatial Approaches in the History of Archaeology"
 url_code = ""
 url_dataset = ""
-url_pdf = <a href="http://doi.org/10.5334/bha.255" target="_ blank"></a>
+url_pdf = "http://doi.org/10.5334/bha.255"
 url_project = "project/mina/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="http://doi.org/10.5334/bha.255" target="_ blank"></a>
+url = "http://doi.org/10.5334/bha.255"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

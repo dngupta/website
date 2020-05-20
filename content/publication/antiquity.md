@@ -19,7 +19,7 @@ url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = <a href="http://doi.org/10.15184/aqy.2016.20" target="_ blank"></a>
+url = "http://doi.org/10.15184/aqy.2016.20"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
