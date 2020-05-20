@@ -18,8 +18,8 @@ weight = 30
 
 1. Digital Anthropology (400-level)
 2. Introduction to World Archaeology (100-level)
-3. Settling Down: An Archaeology of Early State Societies (300-level)
-4. Introduction to Geographic Information Systems (200-level)
-5. Scientific Applications in Archaeology (400-level)
+3. Interpreting Archaeology (200-level)
+4. Settling Down: An Archaeology of Early State Societies (300-level)
+5. Introduction to Geographic Information Systems (200-level)
 6. Biology of Human Variation (200-level)
-7. Interpreting Archaeology (200-level)
+7. Scientific Applications in Archaeology (400-level)
