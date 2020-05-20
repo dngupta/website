@@ -12,14 +12,14 @@ selected = true
 title = "Cultural Continuity, Identity and Archaeological Practice in the Indian Context"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://doi.org/10.5281/zenodo.822835"
+url_pdf = <a href="https://doi.org/10.5281/zenodo.822835" target="_ blank"></a>
 url_project = "project/mina/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = "https://doi.org/10.5281/zenodo.822835"
+url = <a href="https://doi.org/10.5281/zenodo.822835" target="_ blank"></a>
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

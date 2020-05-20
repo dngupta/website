@@ -12,14 +12,14 @@ selected = false
 title = "Local Communities, National Governments and Forensic and Archaeological Investigations of Human Rights Violations"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = <a href="http://doi.org/10.1007/s11759-013-9225-4" target="_ blank"></a>
 url_project = "project/parc-safari/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = "http://doi.org/10.1007/s11759-013-9225-4"
+url = <a href="http://doi.org/10.1007/s11759-013-9225-4" target="_ blank"></a>
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

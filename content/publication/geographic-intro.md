@@ -12,14 +12,14 @@ selected = false
 title = "Introduction to Geographic and Spatial Approaches in the History of Archaeology"
 url_code = ""
 url_dataset = ""
-url_pdf = "http://doi.org/10.5334/bha.255"
+url_pdf = <a href="http://doi.org/10.5334/bha.255" target="_ blank"></a>
 url_project = "project/mina/"
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "DOI"
-url = "http://doi.org/10.5334/bha.255"
+url = <a href="http://doi.org/10.5334/bha.255" target="_ blank"></a>
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
