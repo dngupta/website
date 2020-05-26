@@ -1,6 +1,6 @@
 baseurl = "https://dngupta.github.io/"  # End your URL with a `/` trailing slash.
 title = "Neha Gupta"
-copyright = "&copy; 2019 Neha Gupta"
+copyright = "&copy; 2020 Neha Gupta"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
