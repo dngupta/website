@@ -16,10 +16,11 @@ weight = 30
 
 **Course syllabi available**
 
-1. Digital Anthropology (400-level)
+1. Digital Arts and Humanities (Graduate level)
 2. Introduction to World Archaeology (100-level)
-3. Interpreting Archaeology (200-level)
-4. Settling Down: An Archaeology of Early State Societies (300-level)
-5. Introduction to Geographic Information Systems (200-level)
-6. Biology of Human Variation (200-level)
-7. Scientific Applications in Archaeology (400-level)
+3. Archaeological Inquiry & Practice (200-level)
+4. Digital Methods in Archaeology & Heritage Studies (300-level)
+5. Settling Down: An Archaeology of Early State Societies (300-level)
+6. Digital Anthropology (400-level)
+7. Introduction to Geographic Information Systems (200-level)
+8. Scientific Applications in Archaeology (400-level)
